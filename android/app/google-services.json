@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483118636755",
+    "project_id": "mylab11-3565e",
+    "storage_bucket": "mylab11-3565e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483118636755:android:e4c9a82b42dc87a66bfe26",
+        "android_client_info": {
+          "package_name": "com.example.lab11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483118636755-2ra0k2bbttj2tjteq7868lp4r8p9549i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5plQ1XPHp8wpB3YBtqMiCL5coaw3mbzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483118636755-2ra0k2bbttj2tjteq7868lp4r8p9549i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
